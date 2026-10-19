@@ -1,0 +1,8 @@
+{
+  "name": "Pip’s Midnight Observatory — The Complete Dreamy World",
+  "description": "Step into Pip's magical observatory to explore 50 dreamy adventures, create personalized 1-minute dream videos, read & listen to 25 full bedtime stories across 11 languages, and record wishes in your Dream Journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
