@@ -4,7 +4,7 @@
 Midnight Observatory is an interactive web project designed to provide an engaging digital experience through its available features and tools.
 
 ## Live Demo
-[Open Midnight Observatory](PASTE_YOUR_RENDER_URL_HERE)
+https://pips-midnight-observatory.onrender.com
 
 ## Technologies Used
 - React
